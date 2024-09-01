@@ -52,29 +52,3 @@ C:\Users\PC\Desktop\xxxxxx\C-shap-Student-Registration\C-shap-Student-Registrati
 C:\Users\PC\Desktop\xxxxxx\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.pdb
 C:\Users\PC\Desktop\xxxxxx\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.genruntimeconfig.cache
 C:\Users\PC\Desktop\xxxxxx\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\ref\C-shap-Student-Registration.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\C-shap-Student-Registration.exe
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\C-shap-Student-Registration.deps.json
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\C-shap-Student-Registration.runtimeconfig.json
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\C-shap-Student-Registration.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\C-shap-Student-Registration.pdb
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C_shap_Student_Registration.Form1.resources
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C_shap_Student_Registration.Properties.Resources.resources
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C_shap_Student_Registration.Student_Registation____Skills_International.resources
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.csproj.GenerateResource.cache
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.AssemblyInfo.cs
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-S.FA179C59.Up2Date
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\refint\C-shap-Student-Registration.dll
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.pdb
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\C-shap-Student-Registration.genruntimeconfig.cache
-C:\Users\PC\Desktop\C# Project 2024\C-shap-Student-Registration\C-shap-Student-Registration\C-shap-Student-Registration\obj\Debug\net8.0-windows\ref\C-shap-Student-Registration.dll
