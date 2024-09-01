@@ -179,6 +179,7 @@
             Controls.Add(groupBox1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Student Registration";
             Load += Form1_Load_1;
             groupBox1.ResumeLayout(false);
