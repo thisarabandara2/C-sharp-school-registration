@@ -44,6 +44,7 @@
             label12 = new Label();
             label13 = new Label();
             groupBox3 = new GroupBox();
+            label17 = new Label();
             reg_email = new TextBox();
             reg_homePhone = new TextBox();
             reg_mobilePhone = new TextBox();
@@ -53,6 +54,10 @@
             reg_address = new TextBox();
             label9 = new Label();
             groupBox2 = new GroupBox();
+            label16 = new Label();
+            label15 = new Label();
+            label14 = new Label();
+            label10 = new Label();
             reg_female = new RadioButton();
             reg_male = new RadioButton();
             reg_dateOfBirth = new DateTimePicker();
@@ -64,11 +69,6 @@
             label2 = new Label();
             reg_regNo = new ComboBox();
             label1 = new Label();
-            label10 = new Label();
-            label14 = new Label();
-            label15 = new Label();
-            label16 = new Label();
-            label17 = new Label();
             groupBox1.SuspendLayout();
             groupBox4.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -80,9 +80,9 @@
             button1.Cursor = Cursors.Hand;
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.FromArgb(192, 0, 0);
-            button1.Location = new Point(789, 12);
+            button1.Location = new Point(768, 3);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(115, 38);
             button1.TabIndex = 0;
             button1.Text = "Logout";
             button1.UseVisualStyleBackColor = true;
@@ -90,10 +90,10 @@
             // 
             // exit_btn
             // 
-            exit_btn.BackColor = Color.Gainsboro;
+            exit_btn.BackColor = Color.Transparent;
             exit_btn.Cursor = Cursors.Hand;
             exit_btn.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            exit_btn.ForeColor = Color.MediumSeaGreen;
+            exit_btn.ForeColor = Color.Black;
             exit_btn.Location = new Point(25, 847);
             exit_btn.Name = "exit_btn";
             exit_btn.Size = new Size(146, 46);
@@ -122,12 +122,12 @@
             // 
             // delete_btn
             // 
-            delete_btn.BackColor = Color.FromArgb(255, 192, 192);
+            delete_btn.BackColor = Color.White;
             delete_btn.Cursor = Cursors.Hand;
             delete_btn.ForeColor = Color.Red;
             delete_btn.Location = new Point(611, 713);
             delete_btn.Name = "delete_btn";
-            delete_btn.Size = new Size(171, 29);
+            delete_btn.Size = new Size(171, 45);
             delete_btn.TabIndex = 19;
             delete_btn.Text = "Delete";
             delete_btn.UseVisualStyleBackColor = false;
@@ -135,12 +135,12 @@
             // 
             // clear_btn
             // 
-            clear_btn.BackColor = Color.FromArgb(192, 192, 255);
+            clear_btn.BackColor = Color.White;
             clear_btn.Cursor = Cursors.Hand;
-            clear_btn.ForeColor = Color.Navy;
+            clear_btn.ForeColor = SystemColors.ActiveCaptionText;
             clear_btn.Location = new Point(425, 713);
             clear_btn.Name = "clear_btn";
-            clear_btn.Size = new Size(171, 29);
+            clear_btn.Size = new Size(171, 45);
             clear_btn.TabIndex = 18;
             clear_btn.Text = "Clear";
             clear_btn.UseVisualStyleBackColor = false;
@@ -148,12 +148,12 @@
             // 
             // update_btn
             // 
-            update_btn.BackColor = Color.FromArgb(255, 255, 192);
+            update_btn.BackColor = Color.White;
             update_btn.Cursor = Cursors.Hand;
-            update_btn.ForeColor = Color.Goldenrod;
+            update_btn.ForeColor = SystemColors.ActiveCaptionText;
             update_btn.Location = new Point(242, 713);
             update_btn.Name = "update_btn";
-            update_btn.Size = new Size(171, 29);
+            update_btn.Size = new Size(171, 45);
             update_btn.TabIndex = 17;
             update_btn.Text = "Update";
             update_btn.UseVisualStyleBackColor = false;
@@ -161,12 +161,12 @@
             // 
             // register_btn
             // 
-            register_btn.BackColor = Color.FromArgb(192, 255, 192);
+            register_btn.BackColor = Color.White;
             register_btn.Cursor = Cursors.Hand;
-            register_btn.ForeColor = Color.FromArgb(0, 192, 0);
+            register_btn.ForeColor = SystemColors.ActiveCaptionText;
             register_btn.Location = new Point(61, 713);
             register_btn.Name = "register_btn";
-            register_btn.Size = new Size(171, 29);
+            register_btn.Size = new Size(171, 45);
             register_btn.TabIndex = 16;
             register_btn.Text = "Register";
             register_btn.UseVisualStyleBackColor = false;
@@ -252,6 +252,16 @@
             groupBox3.TabIndex = 14;
             groupBox3.TabStop = false;
             groupBox3.Text = "Contac Details";
+            // 
+            // label17
+            // 
+            label17.AutoSize = true;
+            label17.ForeColor = Color.Red;
+            label17.Location = new Point(64, 129);
+            label17.Name = "label17";
+            label17.Size = new Size(15, 20);
+            label17.TabIndex = 18;
+            label17.Text = "*";
             // 
             // reg_email
             // 
@@ -339,6 +349,46 @@
             groupBox2.TabIndex = 4;
             groupBox2.TabStop = false;
             groupBox2.Text = "Basic Details";
+            // 
+            // label16
+            // 
+            label16.AutoSize = true;
+            label16.ForeColor = Color.Red;
+            label16.Location = new Point(70, 159);
+            label16.Name = "label16";
+            label16.Size = new Size(15, 20);
+            label16.TabIndex = 17;
+            label16.Text = "*";
+            // 
+            // label15
+            // 
+            label15.AutoSize = true;
+            label15.ForeColor = Color.Red;
+            label15.Location = new Point(110, 120);
+            label15.Name = "label15";
+            label15.Size = new Size(15, 20);
+            label15.TabIndex = 16;
+            label15.Text = "*";
+            // 
+            // label14
+            // 
+            label14.AutoSize = true;
+            label14.ForeColor = Color.Red;
+            label14.Location = new Point(101, 79);
+            label14.Name = "label14";
+            label14.Size = new Size(15, 20);
+            label14.TabIndex = 15;
+            label14.Text = "*";
+            // 
+            // label10
+            // 
+            label10.AutoSize = true;
+            label10.ForeColor = Color.Red;
+            label10.Location = new Point(101, 44);
+            label10.Name = "label10";
+            label10.Size = new Size(15, 20);
+            label10.TabIndex = 14;
+            label10.Text = "*";
             // 
             // reg_female
             // 
@@ -438,56 +488,6 @@
             label1.TabIndex = 2;
             label1.Text = "Reg  No";
             // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.ForeColor = Color.Red;
-            label10.Location = new Point(101, 44);
-            label10.Name = "label10";
-            label10.Size = new Size(15, 20);
-            label10.TabIndex = 14;
-            label10.Text = "*";
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.ForeColor = Color.Red;
-            label14.Location = new Point(101, 79);
-            label14.Name = "label14";
-            label14.Size = new Size(15, 20);
-            label14.TabIndex = 15;
-            label14.Text = "*";
-            // 
-            // label15
-            // 
-            label15.AutoSize = true;
-            label15.ForeColor = Color.Red;
-            label15.Location = new Point(110, 120);
-            label15.Name = "label15";
-            label15.Size = new Size(15, 20);
-            label15.TabIndex = 16;
-            label15.Text = "*";
-            // 
-            // label16
-            // 
-            label16.AutoSize = true;
-            label16.ForeColor = Color.Red;
-            label16.Location = new Point(70, 159);
-            label16.Name = "label16";
-            label16.Size = new Size(15, 20);
-            label16.TabIndex = 17;
-            label16.Text = "*";
-            // 
-            // label17
-            // 
-            label17.AutoSize = true;
-            label17.ForeColor = Color.Red;
-            label17.Location = new Point(64, 129);
-            label17.Name = "label17";
-            label17.Size = new Size(15, 20);
-            label17.TabIndex = 18;
-            label17.Text = "*";
-            // 
             // Student_Registation____Skills_International
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -498,7 +498,9 @@
             Controls.Add(exit_btn);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Student_Registation____Skills_International";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Student_Registation - Skills_International";
+            Load += Student_Registation____Skills_International_Load_1;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox4.ResumeLayout(false);

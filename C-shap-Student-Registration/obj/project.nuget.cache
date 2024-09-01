@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMyX8ozhRdc=",
+  "dgSpecHash": "W461CrtfQdY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\xxxxxx\\C-shap-Student-Registration\\C-shap-Student-Registration\\C-shap-Student-Registration\\C-shap-Student-Registration.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\C# Project 2024\\C-shap-Student-Registration\\C-shap-Student-Registration\\C-shap-Student-Registration\\C-shap-Student-Registration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

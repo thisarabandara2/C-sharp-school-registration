@@ -433,5 +433,11 @@ namespace C_shap_Student_Registration
         {
 
         }
+
+        //-----------------------
+        private void Student_Registation____Skills_International_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
