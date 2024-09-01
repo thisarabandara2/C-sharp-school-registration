@@ -3,6 +3,10 @@
 
 Welcome to the Skills International School Management System! This project was developed as a final assignment using Visual Studio and C#. It includes essential functionalities for managing student registrations, user authentication, and database integration.
 
+
+https://github.com/user-attachments/assets/4c01c360-2ca0-436a-9e85-79f8cf489dbc
+
+
 ## 📋 Project Overview
 
 This software solution is designed to help Skills International School streamline student registration processes. The project features a user-friendly interface and ensures secure access through a login form.
